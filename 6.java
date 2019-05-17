@@ -1,3 +1,4 @@
+//观察序列，发现相邻的元素在原string中的规律，设定gap1, gap2,
 //注意只有当gap1或者gap2为0时会出现重复添加
 class Solution {
     public String convert(String s, int numRows) {
